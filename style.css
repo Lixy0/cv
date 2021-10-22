@@ -1,0 +1,32 @@
+html {
+    background: url(BackGround.gif) no-repeat center center fixed;
+    background-size: cover;
+}
+.name {
+    font-size: 60px;
+    line-height: 72px;
+    font-family: 'Prompt', sans-serif;
+    color: aliceblue;}
+.text {
+    font-size: 40px;
+    line-height: 52px;
+    font-family: 'Space_Mono', monospace;
+    color: aliceblue;}
+.game {
+    font-size: 30px;
+    line-height: 22px;
+    font-family: 'IM Fell English SC', serif;
+    color: aliceblue;}
+a:link, a:visited {
+    background-color: midnightblue;
+    color: white;
+    border: 2px cyan;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: cyan;
+    color: white;
+}
